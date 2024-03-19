@@ -1,4 +1,4 @@
-# [:] Example Node.js Project - Scans 22
+# [:] Example Node.js Project - Scans 23
 
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
